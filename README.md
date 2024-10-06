@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Terry TEMPESTINI
+
+I am currently enrolled in a dual Master's degree program in Computer Science at Sherbrooke University and Télécom Nancy.
 
 <!--
-**terry57tt/terry57tt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
