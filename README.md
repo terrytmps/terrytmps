@@ -1,20 +1,10 @@
-## Hi 👋, I'm Terry TEMPESTINI
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=50&duration=2000&pause=1000&vCenter=true&random=true&width=435&height=60&lines=%24whoami;Terry+TEMPESTINI)](https://git.io/typing-svg)
 
-I am currently enrolled in a dual Master's degree program in Computer Science at Sherbrooke University and Télécom Nancy.
+## About Me 👋
 
-<!--
+Hello! I'm Terry TEMPESTINI, a passionate computer engineering student. I enjoy solving complex problems and building innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<picture>
+<!-- picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -27,4 +17,4 @@ I am currently enrolled in a dual Master's degree program in Computer Science at
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>
+</picture -->
