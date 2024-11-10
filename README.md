@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=60&duration=2000&pause=1000&vCenter=true&random=true&width=800&height=70&lines=%24whoami;Terry+TEMPESTINI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=60&duration=2000&pause=1000&vCenter=true&random=true&width=800&height=80&lines=%24whoami;Terry+TEMPESTINI)](https://git.io/typing-svg)
 
 
 <!-- picture>
